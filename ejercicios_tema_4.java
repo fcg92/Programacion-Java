@@ -1,14 +1,14 @@
 public class ejercicios_tema_4 {
     public static void main(String[] args) {
-        int numeroIf = 0;
-        int numeroWhile = 0;
+        int numeroIf = 100;
+        int numeroWhile = 2;
 
         if (numeroIf == 0) {
-                    
+            System.out.println(numeroIf+" es un numero igual a 0");            
         } else if (numeroIf < 0) {
-            
+            System.out.println(numeroIf+" es un numero negativo");           
         } else if (numeroIf > 0) {
-
+            System.out.println(numeroIf+" es un numero positivo");;
         }
 
         while (numeroWhile < 3) {
@@ -19,7 +19,7 @@ public class ejercicios_tema_4 {
         do {
             numeroWhile++;
             System.out.println(numeroWhile);
-        } while (numeroWhile < 3);
+        } while (false);
 
         for (int numeroFor = 0; numeroFor <= 3 ; numeroFor++) {
             System.out.println(numeroFor);
