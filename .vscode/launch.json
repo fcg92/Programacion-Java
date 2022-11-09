@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ejercicios_tema_8",
+            "request": "launch",
+            "mainClass": "ejercicios_tema_8",
+            "projectName": "Programacion Java_d34d88a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ejercicios_tema_3",
+            "request": "launch",
+            "mainClass": "ejercicios_tema_3",
+            "projectName": "Programacion Java_d34d88a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ejercicios_tema_4",
+            "request": "launch",
+            "mainClass": "ejercicios_tema_4",
+            "projectName": "Programacion Java_d34d88a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ejercicios_tema_5",
+            "request": "launch",
+            "mainClass": "ejercicios_tema_5",
+            "projectName": "Programacion Java_d34d88a5"
+        }
+    ]
+}
