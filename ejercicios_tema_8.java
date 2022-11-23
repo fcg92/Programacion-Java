@@ -17,6 +17,11 @@ class Persona{
     private int edad;
     private String nombre;
     private int telefono;
+    
+    //private boolean despierto;
+    //public void setDespierto(boolean despierto){
+    //    this.despierto = despierto;
+    //}
 
     public void setEdad(int edad){
         this.edad = edad;
